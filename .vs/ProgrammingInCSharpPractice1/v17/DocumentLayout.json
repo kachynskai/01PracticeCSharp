@@ -46,8 +46,7 @@
               "RelativeToolTip": "01PracticeCSharp\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:46:25.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:46:25.357Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "01PracticeCSharp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:46:31.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:46:31.468Z"
             },
             {
               "$type": "Document",
@@ -83,8 +81,7 @@
               "ToolTip": "C:\\ProgrammingOnCSharp\\Practices\\ProgrammingOnCSharp\\ProgrammingInCSharpPractice1\\01PracticeCSharp\\MainWindow.xaml",
               "RelativeToolTip": "01PracticeCSharp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T19:38:52.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:38:52.463Z"
             },
             {
               "$type": "Document",
@@ -96,21 +93,19 @@
               "RelativeToolTip": "01PracticeCSharp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:38:46.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:38:46.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "01PracticeCSharp",
+              "Title": "01PracticeCSharp.csproj",
               "DocumentMoniker": "C:\\ProgrammingOnCSharp\\Practices\\ProgrammingOnCSharp\\ProgrammingInCSharpPractice1\\01PracticeCSharp\\01PracticeCSharp.csproj",
               "RelativeDocumentMoniker": "01PracticeCSharp\\01PracticeCSharp.csproj",
               "ToolTip": "C:\\ProgrammingOnCSharp\\Practices\\ProgrammingOnCSharp\\ProgrammingInCSharpPractice1\\01PracticeCSharp\\01PracticeCSharp.csproj",
               "RelativeToolTip": "01PracticeCSharp\\01PracticeCSharp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-23T19:44:54.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T19:44:54.344Z"
             }
           ]
         }
