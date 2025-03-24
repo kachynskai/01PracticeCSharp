@@ -20,5 +20,7 @@ namespace KMA.ProgrammingInCSharp.Practice1
         {
             InitializeComponent();
         }
+
+
     }
 }
