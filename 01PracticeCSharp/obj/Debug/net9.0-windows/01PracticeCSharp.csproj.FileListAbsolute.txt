@@ -22,3 +22,6 @@ C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice
 C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\obj\Debug\net9.0-windows\View\HoroscopeControl.g.cs
 C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\obj\Debug\net9.0-windows\View\HoroscopeControl.baml
+C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\obj\Debug\net9.0-windows\01PracticeCSharp.csproj.AssemblyReference.cache
+C:\ProgrammingOnCSharp\Practices\ProgrammingOnCSharp\ProgrammingInCSharpPractice1\01PracticeCSharp\obj\Debug\net9.0-windows\01Practi.78C8C9CC.Up2Date

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KMA.ProgrammingInCSharp.Practice1.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,11 @@ namespace KMA.ProgrammingInCSharp.Practice1.View
     /// </summary>
     public partial class HoroscopeControl : UserControl
     {
+        private HoroscopeViewModel _model;
         public HoroscopeControl()
         {
             InitializeComponent();
+            DataContext = _model = new HoroscopeViewModel();
         }
     }
 }

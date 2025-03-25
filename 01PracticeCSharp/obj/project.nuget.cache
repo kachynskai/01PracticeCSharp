@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GuO1Bmne49o=",
+  "dgSpecHash": "C8wXhx7qtmk=",
   "success": true,
   "projectFilePath": "C:\\ProgrammingOnCSharp\\Practices\\ProgrammingOnCSharp\\ProgrammingInCSharpPractice1\\01PracticeCSharp\\01PracticeCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
