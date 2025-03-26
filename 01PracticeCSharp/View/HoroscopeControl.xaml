@@ -15,14 +15,14 @@
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="15, 0">
             <TextBlock  FontSize="25"  Foreground ="DarkBlue" FontFamily="Bahnschrift"  > Please enter your date of birth:</TextBlock>
-            <DatePicker FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" FontWeight="Light" BorderBrush="AliceBlue" SelectedDate="{Binding BirthDate, UpdateSourceTrigger = PropertyChanged}"></DatePicker>
+            <DatePicker FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" FontWeight="Light" BorderBrush="AliceBlue" SelectedDate="{Binding BirthDate, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DatePicker>
         </StackPanel>
         <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
             <TextBlock FontSize="30" Foreground ="DarkBlue" FontFamily="Bahnschrift" Text="Your age is: "></TextBlock>
             <TextBlock FontSize="30" Foreground ="DarkBlue" FontFamily="Bahnschrift" Text="{Binding Age}"></TextBlock>
         </StackPanel>
       
-        <Button Grid.Row="2"  FontSize="20" Foreground ="DarkBlue" Background="White" BorderBrush="DarkBlue" FontFamily="Bahnschrift" Height="50" Width ="450"  VerticalAlignment="Top" HorizontalAlignment="Center" Content="Get signs">
+        <Button Grid.Row="2"  FontSize="20" Foreground ="DarkBlue" Background="White" BorderBrush="DarkBlue" FontFamily="Bahnschrift" Height="50" Width ="450"  VerticalAlignment="Top" HorizontalAlignment="Center" Content="Get signs" Command="{Binding CalculateSignsCommand}">
         </Button>
         <Grid Grid.Row="3" Margin="0, 10, 0, 0">
             <Grid.RowDefinitions>
@@ -34,11 +34,11 @@
             </Grid.ColumnDefinitions>
             <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="0">
                 <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="30">Western System:</TextBlock>
-                <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="50" HorizontalAlignment="Center" Name="tbWestern" Text="{Binding WesternSignRes}"></TextBlock>
+                <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="50" HorizontalAlignment="Center" Text="{Binding WesternSign}"></TextBlock>
             </StackPanel>
             <StackPanel Grid.Row="0"  HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="1">
                 <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="30">Chinese System:</TextBlock>
-                <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="50" HorizontalAlignment="Center" Name="tbChinese" Text="{Binding ChineseSignRes}"></TextBlock>
+                <TextBlock FontSize="20" Foreground ="DarkBlue" FontFamily="Bahnschrift" Height="50" HorizontalAlignment="Center" Text="{Binding ChineseSign}"></TextBlock>
             </StackPanel>
         </Grid>
     </Grid>
